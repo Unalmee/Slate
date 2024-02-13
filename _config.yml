@@ -20,8 +20,7 @@
 
 title: Elektromekanik
 email: unal.dana@ikc.edu.tr
-description: >- # this means to ignore newlines until "baseurl:"
-Elektromekanik hakkindaki araştirmalarimi koydugum yer.
+description: "Elektromekanik hakkindaki araştirmalarimi koyduğum yer."
 baseurl: "/Slate" # the subpath of your site, e.g. /blog
 url: "https://unalmee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: unalmee
