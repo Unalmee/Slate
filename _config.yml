@@ -26,6 +26,7 @@ url: "https://unalmee.github.io" # the base hostname & protocol for your site, e
 github_username: unalmee
 # Build settings
 remote_theme: pages-themes/slate@v0.2.0
+logo: /favicon.ico
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-seo-tag
